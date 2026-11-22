@@ -1,5 +1,9 @@
 # Diabetes Progression: Ridge Regression Benchmark
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python 3.10 | 3.11](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E)
+
 Build and diagnose a regularized regression baseline for a quantitative progression score.
 
 شرح مختصر بالمصري في [EXPLAIN_AR.md](EXPLAIN_AR.md).
